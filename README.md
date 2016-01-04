@@ -1,2 +1,3 @@
-# Testes-de-software
+Curso ministrado pelo professor Alexandre Locci Martins 
+  
  
