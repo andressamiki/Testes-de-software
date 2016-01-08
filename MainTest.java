@@ -3,7 +3,7 @@ package Cobertura;
 import junit.framework.TestCase;
 
 
-public class TestMain extends TestCase {
+public class MainTest extends TestCase {
 	
 
 	public void test(){
